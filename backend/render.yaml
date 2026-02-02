@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: property-manager-api
+    name: brick-property-manager-api
     env: python
     region: oregon
     plan: free

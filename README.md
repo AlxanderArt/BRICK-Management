@@ -3,7 +3,7 @@
 
 **Created by Maxwell Willis ([@AlxanderArt](https://github.com/AlxanderArt))**
 
-A modern, simplified property management system designed for small portfolio owners and landlords. This project demonstrates full-stack development skills using React, TypeScript, Python (Flask), and SQLite.
+This project displays A modern, simplified property management system designed for small portfolio owners and landlords. This project demonstrates full-stack development skills using React, TypeScript, Python (Flask), and SQLite.
 
 ## 🚀 Live Demo
 The preview environment runs the **React Frontend** with a **Mock API Service** to demonstrate functionality immediately in the browser. The actual Python backend code is provided in the `/backend` directory for local development.

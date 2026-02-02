@@ -1,6 +1,8 @@
 
 # Property Manager Lite 🏢
 
+**Created by Maxwell Willis ([@AlxanderArt](https://github.com/AlxanderArt))**
+
 A modern, simplified property management system designed for small portfolio owners and landlords. This project demonstrates full-stack development skills using React, TypeScript, Python (Flask), and SQLite.
 
 ## 🚀 Live Demo
